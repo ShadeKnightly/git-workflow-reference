@@ -1,5 +1,5 @@
 
-# Git Quick Guide
+# Quick Start Guide
 
 A reference for everyday Git commands.  
 For new developers learning to work with branches, commits, and pull requests.
