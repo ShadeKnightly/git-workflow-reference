@@ -114,7 +114,7 @@ If the branch still exists remotely:
 
 
 
-# ======================= COMPLETE WORKFLOW SUMMARY =====================
+## ========= COMPLETE WORKFLOW SUMMARY =======
 # 1. Sync main
 git checkout main
 git pull origin main
