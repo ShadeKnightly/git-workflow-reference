@@ -216,8 +216,9 @@ Think of it like: submitting your work for review before adding it to the main p
 
 
 # Summary Table 
+
+| Term | Meaning |
 | :---: | :---: |
-Term | Meaning |
 Local | Your computer
 Remote | GitHub copy
 Branch | A separate version of the project
