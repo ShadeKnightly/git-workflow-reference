@@ -215,7 +215,7 @@ it lets someone propose merging their branch into another branch.
 Think of it like: submitting your work for review before adding it to the main project.
 
 
-| # Summary Table |
+# Summary Table 
 | :---: | :---: |
 Term | Meaning |
 Local | Your computer
