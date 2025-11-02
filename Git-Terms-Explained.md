@@ -159,7 +159,8 @@ That means:
 
 ## Summary
 
-| Goal | Command(s) | What Happens
+| Goal | Command(s) | What Happens |
+| :---: | :---: | :---: |
 Check for updates | git fetch origin feature/login | Downloads new commits only
 Update your local branch manually | git merge origin/feature/login | Combines remote updates into your branch
 Update automatically | git pull origin feature/login | Fetches and merges in one step
