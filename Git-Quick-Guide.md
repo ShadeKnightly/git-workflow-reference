@@ -86,7 +86,7 @@ Discard local changes (careful!):
     git checkout -- <file>
 
 
-#Syncing with Remote
+# Syncing with Remote
 
 Push your branch to GitHub:
 
@@ -112,7 +112,7 @@ If everything looks good, commit and push:
     git push origin main
 
 
-#Checking Merge Compatibility (Dry Run)
+# Checking Merge Compatibility (Dry Run)
 
 Test if a branch can merge cleanly without making changes:
 
@@ -162,7 +162,7 @@ Remove untracked files and folders (use carefully):
     git clean -fd
 
 
-#Helpful Aliases (Optional)
+# Helpful Aliases (Optional)
 
 Speed up common commands by setting Git aliases:
 
