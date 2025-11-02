@@ -1,12 +1,10 @@
 # git-workflow-reference
-A simple, developer-friendly guide to using Git effectively in team projects. 
 
-A reference for developers learning to use Git in team environments.
+A reference guide for developers learning to use Git in team environments.
 
 This repository includes:
 - **Git-Quick-Guide.md** – Everyday Git commands
 - **Git-Workflow.md** – Team workflow and branch management
-- **Git-Troubleshooting.md** – Common mistakes and how to fix them
 
 ---
 
