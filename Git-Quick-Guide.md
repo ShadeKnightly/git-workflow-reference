@@ -181,17 +181,19 @@ Then you can use commands like:
 
 
 ## Quick Reference Summary
-# Action --------------------- Command
-Clone a rep --------------------- git clone <url>
-Create a branch	                                git checkout -b <branch>
-Switch branch	                                  git checkout <branch>
-Stage changes	                                  git add .
-Commit	                                        git commit -m "message"
-Push	                                          git push origin <branch>
-Pull	                                          git pull
-Merge	                                          git merge <branch>
-See history	                                    git log --oneline
-Undo last commit	                              git reset --soft HEAD~1
+
+| Action | Command |
+|    :---:    |    :---:    |
+| Clone a repo | git clone <url> 
+| Create a branch | git checkout -b <branch> 
+| Switch branch | git checkout <branch>
+| Stage changes |	git add .
+| Commit | git commit -m "message"
+| Push | git push origin <branch>
+| Pull | git pull
+| Merge |	git merge <branch>
+| See history | git log --oneline
+| Undo last commit | git reset --soft HEAD~1
 
 
 # Recommended next read:
